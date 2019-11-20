@@ -9,10 +9,12 @@
 #####     使用步骤
 0.在face++申请APIkey和API secret
 1.预先配置一张用来匹配的照片
-` //此处的gsy5.jpg和PthotoTest中的照片路径应该是一致的
+  
+```      //此处的gsy5.jpg和PthotoTest中的照片路径应该是一致的
         File localfile = new File("/Users/gsy/Pictures/gsy5.jpg");
         //用来进行匹配的图片路径
-        File file = new File("/Users/gsy/Pictures/2018-12-23 下午9.31 拍摄的照片.jpg");`
+        File file = new File("/Users/gsy/Pictures/2018-12-23 下午9.31 拍摄的照片.jpg");
+```
  2.windows系统直接启动，mac用户运行build.sh启动 
       ![截屏2019-11-20下午5.42.43](https://github.com/GongShengyue/faces/blob/master/%E6%88%AA%E5%9B%BE.jpg)
 3.输出匹配可信度confidence
