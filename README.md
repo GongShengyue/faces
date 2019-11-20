@@ -14,7 +14,7 @@
         //用来进行匹配的图片路径
         File file = new File("/Users/gsy/Pictures/2018-12-23 下午9.31 拍摄的照片.jpg");`
  2.windows系统直接启动，mac用户运行build.sh启动 
-      ![截屏2019-11-20下午5.42.43](https://github.com/GongShengyue/faces/blob/master/%E6%88%AA%E5%B1%8F2019-11-20%E4%B8%8B%E5%8D%885.42.43.png)
+      ![截屏2019-11-20下午5.42.43](https://github.com/GongShengyue/faces/blob/master/%E6%88%AA%E5%9B%BE.jpg)
 3.输出匹配可信度confidence
 
 ##### 相关
