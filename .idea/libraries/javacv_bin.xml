@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="javacv-bin">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../javacv-bin" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://docs.opencv.org/4.1.2/javadoc/index.html" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../javacv-bin/samples" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../javacv-bin" recursive="false" />
+  </library>
+</component>
